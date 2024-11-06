@@ -1,6 +1,3 @@
-# Nama:Fikri Raditya Hutama
-# Kelas: RPL 1A
-# NIM: 2408727
 def login():
     user = "Daspro2023"
     pwd = "Latihan"
